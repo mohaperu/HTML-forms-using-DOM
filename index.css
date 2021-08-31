@@ -1,0 +1,47 @@
+.columns{
+    display: flex;
+    padding-top: 20px;
+    
+}
+.column1{
+    margin: 0 0 0 40px;
+    margin-right: 50px;
+}
+.margin{
+    background-color: rgba(128, 128, 128, 0.349);
+}
+label {
+    display: block;
+    margin-bottom: .5rem;
+    font-weight: bold;
+}
+#gender1{
+    margin-left: 20px;
+}
+input{
+    margin-bottom: 20px;
+}
+.display1,.display2{
+    display: inline;
+    margin-left: 5px;
+}
+
+span{
+    font-weight: lighter;
+}
+
+#food{
+    display: inline;
+}
+.display2{
+    margin-bottom: -20px;
+}
+.table{
+    display: inline;
+}
+input[type=text]{
+    width: 270px;
+}
+.btn{
+    display: block;
+}
